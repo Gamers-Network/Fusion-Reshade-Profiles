@@ -11,6 +11,9 @@
 7. when in game press Home to launch the reshade program and select the D3_Season_24 profile
 
 
+ ## THIS WORKS THE SAMNE FOR EVERY OTHER GAME!!
+
+
 enjoy and have fun
 
 
